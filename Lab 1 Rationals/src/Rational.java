@@ -4,7 +4,7 @@ import java.util.Scanner;
  * arithmetic operations with rational numbers. The program is 
  * implemented through a class named Rational and the main class where 
  * the objects are created and called.  
- * @author Osman 
+ * @author Osman
  */
 public class Rational {
 	private int num;
